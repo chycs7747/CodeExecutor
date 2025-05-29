@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: CodeExecutor
+Version: 1.0.0
+Summary: A code execution package supporting multiple languages.
+Author: CJH & CYH
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
